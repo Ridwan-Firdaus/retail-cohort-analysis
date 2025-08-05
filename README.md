@@ -13,7 +13,7 @@ Proyek ini bertujuan untuk menganalisis **perilaku retensi pelanggan** berdasark
 ## Dataset
 
 - Nama file: `Online Retail.xlsx`
-- Sumber: Transaksi toko retail online
+- Sumber: Kaggle
 - Informasi yang digunakan:
   - Tanggal transaksi
   - ID pelanggan
@@ -23,7 +23,7 @@ Proyek ini bertujuan untuk menganalisis **perilaku retensi pelanggan** berdasark
 ## Tools & Library
 
 - Python
-- Pandas, NumPy
+- Pandas
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
